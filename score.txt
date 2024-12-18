@@ -1,0 +1,7 @@
+.\CAS_Datasets\Gen\model1\065_PPA_-2_PSA_29_4.png, 100, 0, 0
+.\CAS_Datasets\Gen\model1\041_PPA_-6_PSA_28_4.png, 16, 0, 0
+.\CAS_Datasets\Gen\model1\049_PPA_00_PSA_-28_5.png, 34, 0, 0
+.\CAS_Datasets\Gen\model1\056_PPA_-2_PSA_29_4.png, 25, 0, 0
+.\CAS_Datasets\Gen\model1\064_PPA_44_PSA_28_1.png, 100, 0, 0
+.\CAS_Datasets\Gen\model1\064_PPA_44_PSA_28_1.png, 87, 0, 0
+.\CAS_Datasets\Gen\model1\068_PPA_44_PSA_00_8.png, 100, 0, 0
